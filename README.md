@@ -1,16 +1,21 @@
-## Hi there 👋
+# Harish Bodapati
 
-<!--
-**harish4bvk/harish4bvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | Kubernetes (EKS) | Terraform | CI/CD | AWS
 
-Here are some ideas to get you started:
+## What I do
+- Build production-grade Kubernetes platforms on AWS
+- Automate infrastructure using Terraform
+- Design CI/CD pipelines for microservices
+- Implement monitoring and observability systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- AWS (EKS, EC2, IAM, VPC)
+- Terraform
+- Kubernetes, Helm
+- GitHub Actions, Jenkins
+- Prometheus, Grafana
+
+## Featured Projects
+- EKS Terraform CI/CD Platform
+- Microservices CI/CD Pipeline
+- Kubernetes Monitoring Stack
